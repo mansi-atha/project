@@ -4,9 +4,17 @@ background-color:black;
 }
 h1{
   
+<<<<<<< HEAD
 background-color:green; 
 }
 p{
 
     background-color: blue;
+=======
+ background-color:green; 
+}
+p{
+
+    background-color: blackgit ;
+>>>>>>> ttt
 }
