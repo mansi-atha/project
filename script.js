@@ -14,4 +14,8 @@ var d=300
  var g=100
 var h=500
 var i=600
+<<<<<<< HEAD
+>>>>>>> ttt
+=======
+var j=700
 >>>>>>> ttt
